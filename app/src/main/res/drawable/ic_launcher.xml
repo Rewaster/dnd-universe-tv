@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder launcher icon: gold d20-ish hexagon on dark background. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#FF0E0B14"
+        android:pathData="M8,0h32a8,8 0,0 1,8 8v32a8,8 0,0 1,-8 8h-32a8,8 0,0 1,-8 -8v-32a8,8 0,0 1,8 -8z" />
+    <path
+        android:fillColor="#FFC9A227"
+        android:pathData="M24,6L39.6,15L39.6,33L24,42L8.4,33L8.4,15Z" />
+    <path
+        android:fillColor="#FF0E0B14"
+        android:pathData="M24,13L33,29L15,29Z" />
+</vector>

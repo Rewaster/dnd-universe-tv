@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">DnD Universe TV</string>
+    <string name="error_title">Can\'t reach DnD Universe</string>
+    <string name="error_generic">The page failed to load.</string>
+    <string name="error_retry_in">Retrying automatically in %1$d s…</string>
+    <string name="retry">Retry</string>
+    <string name="exit_title">Exit DnD Universe TV?</string>
+    <string name="exit_confirm">Exit</string>
+    <string name="exit_cancel">Stay</string>
+</resources>

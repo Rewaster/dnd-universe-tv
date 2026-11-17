@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_title">Нет связи с DnD Universe</string>
+    <string name="error_generic">Не удалось загрузить страницу.</string>
+    <string name="error_retry_in">Повторная попытка через %1$d с…</string>
+    <string name="retry">Повторить</string>
+    <string name="exit_title">Выйти из DnD Universe TV?</string>
+    <string name="exit_confirm">Выйти</string>
+    <string name="exit_cancel">Остаться</string>
+</resources>
